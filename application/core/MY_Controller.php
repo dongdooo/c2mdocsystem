@@ -7,7 +7,7 @@
         parent::__construct();
          $this->load->library('session');
         
-        $this->base_url = 'http://localhost.com/c2mdoc';
+        $this->base_url = 'http://localhost/c2mdoc';
 
     }
 
