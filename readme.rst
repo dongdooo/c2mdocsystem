@@ -9,5 +9,5 @@ What is C2M Doc
 1. url     application\core  ไฟล์  MY_Controller.php    
 ###################
 2. database    application\config  ไฟล์  database.php
-
+###################
 
