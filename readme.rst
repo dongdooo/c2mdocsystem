@@ -2,4 +2,4 @@
 What is C2M Doc
 ###################
 
-โปรแกรมจัดการเอกสาร Web Application ระบบ PHP & MySQL
+โปรแกรมจัดเก็บเอกสาร Web Application ระบบ PHP & MySQL
